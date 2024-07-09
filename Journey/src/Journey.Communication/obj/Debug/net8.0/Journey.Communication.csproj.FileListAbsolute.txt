@@ -1,0 +1,11 @@
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.deps.json
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.dll
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfo.cs
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.dll
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll
