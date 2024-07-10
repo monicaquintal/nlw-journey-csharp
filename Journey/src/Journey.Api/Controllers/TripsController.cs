@@ -1,6 +1,8 @@
-﻿using Journey.Communication.Requests;
-using Microsoft.AspNetCore.Http;
+﻿using Journey.Application.UseCases.Trips.Register;
+using Journey.Communication.Requests;
+using Journey.Exception.ExceptionsBase;
 using Microsoft.AspNetCore.Mvc;
+using Journey.Application.UseCases.Trips.GetAll;
 
 namespace Journey.Api.Controllers
 {
@@ -8,11 +10,33 @@ namespace Journey.Api.Controllers
     [ApiController]
     public class TripsController : ControllerBase
     {
+        // POST
         [HttpPost]
-        public IActionResult Register(RequestRegisterTripJson request)
+        public IActionResult Register([FromBody] RequestRegisterTripJson request)
         {
+            try
+            {
+                var useCase = new RegisterTripUseCase();
+                var response = useCase.Execute(request);
+                return Created(string.Empty, response);
+            }
+            catch (JourneyException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            catch
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Internal Server Error");
+            }
+        }
 
-            return Created();
+        //Get
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            var userCase = new GetAllTripUseCase();
+            var response = userCase.Execute();
+            return Ok(response);
         }
     }
 }

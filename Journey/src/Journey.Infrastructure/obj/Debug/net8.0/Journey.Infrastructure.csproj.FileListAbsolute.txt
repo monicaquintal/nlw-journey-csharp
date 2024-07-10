@@ -9,3 +9,5 @@ C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Infrastructure\ob
 C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
 C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
 C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.sourcelink.json

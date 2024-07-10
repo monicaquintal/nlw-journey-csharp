@@ -9,3 +9,6 @@ C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Exception\obj\Deb
 C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
 C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
 C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.sourcelink.json
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ResourceErrorMessages.resources
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache
