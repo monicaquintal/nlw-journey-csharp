@@ -9,3 +9,4 @@ C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj
 C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
 C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
 C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll
+C:\Users\monic\OneDrive\Cursos\nlw-journey\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.sourcelink.json

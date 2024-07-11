@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OTOqUC0D2eU=",
+  "dgSpecHash": "SXFILgi3Z1E=",
   "success": true,
   "projectFilePath": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Api\\Journey.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\monic\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\monic\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.7\\microsoft.data.sqlite.core.8.0.7.nupkg.sha512",
     "C:\\Users\\monic\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\monic\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",
