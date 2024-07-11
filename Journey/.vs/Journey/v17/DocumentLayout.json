@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.application\\usecases\\trips\\register\\registertripvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\register\\registertripvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.application\\usecases\\trips\\activities\\register\\registeractivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\activities\\register\\registeractivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.api\\journey.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\journey.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|solutionrelative:src\\journey.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.application\\usecases\\trips\\activities\\complete\\completeactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\activities\\complete\\completeactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|solutionrelative:src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\monic\\onedrive\\cursos\\nlw-journey\\journey\\src\\journey.application\\usecases\\trips\\delete\\deletetripbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,91 +78,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Journey.Api",
-              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Api\\Journey.Api.csproj",
-              "RelativeDocumentMoniker": "src\\Journey.Api\\Journey.Api.csproj",
-              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Api\\Journey.Api.csproj",
-              "RelativeToolTip": "src\\Journey.Api\\Journey.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-11T11:51:11.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExceptionFilter.cs",
-              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Api\\Filters\\ExceptionFilter.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Api\\Filters\\ExceptionFilter.cs",
-              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Api\\Filters\\ExceptionFilter.cs",
-              "RelativeToolTip": "src\\Journey.Api\\Filters\\ExceptionFilter.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T22:01:50.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TripsController.cs",
               "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
               "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAoAAAAfAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswGEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T21:41:25.427Z",
+              "WhenOpened": "2024-07-11T13:54:58.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Api\\Program.cs",
-              "RelativeToolTip": "src\\Journey.Api\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T21:41:13.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DeleteTripByIdUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T21:41:09.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterTripValidator.cs",
-              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidator.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidator.cs",
-              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidator.cs",
-              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T21:33:15.091Z",
+              "DocumentIndex": 2,
+              "Title": "ResourceErrorMessages.resx",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Exception\\ResourceErrorMessages.resx",
+              "RelativeDocumentMoniker": "src\\Journey.Exception\\ResourceErrorMessages.resx",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Exception\\ResourceErrorMessages.resx",
+              "RelativeToolTip": "src\\Journey.Exception\\ResourceErrorMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-11T13:33:44.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterTripUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwC8AAAAFAAAA",
+              "Title": "RegisterActivityForTripUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Activities\\Register\\RegisterActivityForTripUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Activities\\Register\\RegisterActivityForTripUseCase.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Activities\\Register\\RegisterActivityForTripUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Activities\\Register\\RegisterActivityForTripUseCase.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwDMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T21:32:01.738Z",
+              "WhenOpened": "2024-07-11T13:33:37.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompleteActivityForTripUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:32:57.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JourneyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "RelativeToolTip": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:31:47.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteTripByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\monic\\OneDrive\\Cursos\\nlw-journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:29:10.17Z",
               "EditorCaption": ""
             }
           ]

@@ -27,10 +27,10 @@ public class RegisterTripUseCase
 
         return new ResponseShortTripJson
         {
-            EndDate = entity.EndDate,
-            StartDate = entity.StartDate,
+            Id = entity.Id,
             Name = entity.Name,
-            Id = entity.Id
+            StartDate = entity.StartDate,
+            EndDate = entity.EndDate,
         };
     }
 
